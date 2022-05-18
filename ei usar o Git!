@@ -1,0 +1,34 @@
+[33mcommit 07d299f5167b732828a46941f46e699bc9fa5a31[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Clarissa <ctno@icomp.ufam.edu.br>
+Date:   Wed May 18 22:00:56 2022 +0000
+
+    Comitando todos os arquivos juntos
+
+[1mdiff --git a/dev1.txt b/dev1.txt[m
+[1mindex 0253dcd..5136ae7 100644[m
+[1m--- a/dev1.txt[m
+[1m+++ b/dev1.txt[m
+[36m@@ -1 +1 @@[m
+[31m-Olá mundo, eu sei usar o Git![m
+[32m+[m[32mOlá mundo, eu sei fazer um commit![m
+[1mdiff --git a/devtitans2.txt b/devtitans2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..13f387d[m
+[1m--- /dev/null[m
+[1m+++ b/devtitans2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mNovo arquivo do meu projeto devtitans[m
+
+[33mcommit b03a82bd267455cafde417456a27316bd4cfd1b5[m
+Author: Clarissa <ctno@icomp.ufam.edu.br>
+Date:   Wed May 18 21:56:30 2022 +0000
+
+    Alterando o dev1.txt
+
+[1mdiff --git a/dev1.txt b/dev1.txt[m
+[1mindex 4fd4e7c..0253dcd 100644[m
+[1m--- a/dev1.txt[m
+[1m+++ b/dev1.txt[m
+[36m@@ -1 +1 @@[m
+[31m-Olá mundo, eu sou DevTITAN![m
+[32m+[m[32mOlá mundo, eu sei usar o Git![m
